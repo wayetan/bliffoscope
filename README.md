@@ -21,7 +21,7 @@ will be 'on', and if there is a target, some of its pixels will be 'off'. For ex
 20 sample of raw data from the Bliffoscope (where each '+' is a pixel that is on):
 
 
-	   **+**       + ++ + + 
+	   +       + ++ + + 
 	+     +   +++ ++  ++
 	     ++    + ++  ++ 
 	+ + ++  + + + + ++  
