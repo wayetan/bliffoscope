@@ -199,6 +199,8 @@ def main():
     sss = getMatches(bs, ss, stUpperLim)
     print "%s Starships found." % len(sss)
     pprint(getMatches(bs, ss, ssUpperLim))
+    print "SAMPLE"
+    BliffTarget.printImg(bs.getSubImg(20,20,20,20))
 
     #unit tests
     #pprint(getSubList(bs, 0, 6, 2, 2))
